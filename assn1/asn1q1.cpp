@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define MAX 1000
+#define MAX 100
 
 int arr[MAX];
 int n = 0; // current number of elements
