@@ -54,7 +54,7 @@ int main() {
     int choice, value;
 
     while (true) {
-        cout << endl << "--- Stack Menu ---" << endl;
+        cout << endl << "Stack Menu" << endl;
         cout << "1. Push" << endl;
         cout << "2. Pop" << endl;
         cout << "3. Peek" << endl;
